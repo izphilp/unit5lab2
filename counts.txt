@@ -1,0 +1,1 @@
+ number count 6 letter count 224 vowel count 60
